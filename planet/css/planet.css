@@ -1,0 +1,23 @@
+body{box-sizing:border-box;height:1000px;background:#00a8ff;}
+*{margin:0px;padding:0px;}
+body div:first-child{width:500px;height:600px;margin: auto;position:relative;background:white;margin-top: 100px;border-radius:10px;}
+body div:first-child img{width:150px;height:150px;border-radius:50%;position:absolute;top:-70px;left:170px;}
+body div:first-child button:first-of-type{position:absolute;top:10px;left:10px;width:100px;height:40px;background:white;color:#fd9644;border:1px solid #fd9644;border-radius:20px;}
+.fa-ellipsis-h{position:absolute;top:10px;right:20px;color:lightgray;font-size:30px;}
+body div:first-child b{position:absolute;top:90px;left:200px;font-size:18px;}
+body div:first-child span{position:absolute;top:120px;left:210px;font-size:12px;color:#d1ccc0;}
+body div:first-child p{position:absolute;top:170px;left:80px;font-size:22px;text-align:center;color:gray}
+.fa-instagram{position:absolute;top:300px;left:200px;font-size:35px;color:lightgray}
+.fa-twitter{position:absolute;top:300px;left:250px;font-size:35px;color:lightgray}
+.fa-globe-americas{position:absolute;top:300px;left:300px;font-size:35px;color:lightgray}
+body div:first-child button:nth-of-type(2){width:60%;height:70px;margin-left:100px;position:absolute;top:500px;background:#00a8ff;color:white;border-radius:10px;font-size:18px;}
+
+
+
+
+
+
+
+
+
+
